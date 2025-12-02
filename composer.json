@@ -14,11 +14,11 @@
         "spiral/roadrunner-cli": "^2.6",
         "spiral/roadrunner-http": "^2.0 || ^3.0",
         "spiral/roadrunner-worker": "^2.0 || ^3.0",
-        "symfony/runtime": "^5.4 || ^6.0 || ^7.0"
+        "symfony/runtime": "^5.4 || ^6.0 || ^7.0 || ^8.0"
     },
     "require-dev": {
         "php": ">=8.0.5",
-        "phpunit/phpunit": "^9.5",
+        "phpunit/phpunit": "^10.5.58",
         "psr/http-server-handler": "^1.0"
     },
     "minimum-stability": "dev",
